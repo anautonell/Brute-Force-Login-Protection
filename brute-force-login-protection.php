@@ -5,7 +5,7 @@ require_once 'includes/Htaccess.php';
 require_once 'includes/Whitelist.php';
 
 /**
- * Plugin Name: Brute Force Login Protection
+ * Plugin Name: Safer Brute Force Login Protection
  * Plugin URI: http://wordpress.org/plugins/brute-force-login-protection/
  * Description: Protects your website against brute force login attacks using .htaccess
  * Text Domain: brute-force-login-protection
